@@ -28,6 +28,7 @@
         <activity android:name=".TopAppBarActivity" />
         <activity android:name=".BottomAppBarActivity" />
         <activity android:name=".SnackbarActivity" />
+        <activity android:name=".BottomNavigationActivity" />
 
     </application>
 
